@@ -33,17 +33,11 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical&hide_border=true" />
-  
-  <br/><br/>
+![Abdelrahman's Stats](https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical&hide_border=true)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahafez-dev&theme=radical&hide_border=true" />
+![Abdelrahman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahafez-dev&theme=radical&hide_border=true)
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical&hide_border=true)
 ---
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
