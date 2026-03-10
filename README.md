@@ -37,8 +37,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahafez-dev&theme=radical)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical)
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=visual_studio_code&border_radius=10" alt="Top Langs" />
 ---
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
