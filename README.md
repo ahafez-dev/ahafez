@@ -10,7 +10,7 @@
 - 🎯 **Deep diving into:** Component-driven development and State Management.
 - 👯 **Open to:** Collaboration on innovative front-end projects.
 - 💬 **Ask me about:** HTML, CSS, JavaScript, and Web Performance.
-- 📫 **Reach me:** [abdelrahmanhafez50@fmil.com](mailto:abdelrahmanhafez50@fmil.com) or [LinkedIn](https://www.linkedin.com/in/hafez-dev/)
+- 📫 **Reach me:** [abdelrahmanhafez50@fmil.com](mailto:abdelrahmanhafez50@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hafez-dev/)
 
 ---
 
